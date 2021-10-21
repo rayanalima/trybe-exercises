@@ -1,3 +1,3 @@
-# *Exercicios Unix & Bash - Parte 1*
+# *Exercícios Unix & Bash - Parte 1*
 
 ## Parte I - Criação de arquivos e diretórios
