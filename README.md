@@ -10,10 +10,10 @@ São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento
 ## Desenvolvimento Web
 
 ### Bloco 01: Unix & Bash
-  *1/3 - Fundamentos do Desenvolvimento Web*
+  :heavy_check_mark:*1/3 - Fundamentos do Desenvolvimento Web*
   
-  *1/3 - Introdução - Unix & Shell*
+  :heavy_check_mark:*1/3 - Introdução - Unix & Shell*
   
-  *1/3 - Unix & Bash - Parte 1*
+  *:heavy_check_mark:1/3 - Unix & Bash - Parte 1*
   
-  *1/4 - Unix & Bash - Parte 2*
+  :heavy_check_mark:*1/4 - Unix & Bash - Parte 2*
