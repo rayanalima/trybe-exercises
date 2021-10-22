@@ -18,8 +18,6 @@ mv trybe.txt trybe2.txt
 
 `#Dentro de unix_tests , crie um novo diretório chamado backup.`
 
-cd unix_tests
-
 mkdir backup
 
 `#Mova o arquivo trybe_backup.txt para o diretório backup.`
@@ -27,8 +25,6 @@ mkdir backup
 mv trybe_backup.txt backup
 
 `#Dentro de unix_tests , crie um novo diretório chamado backup2.`
-
-cd unix_tests
 
 mkdir backup2
 
@@ -98,8 +94,41 @@ grep 'Brazil' countries.txt
 
 grep -i 'brazil' countries.txt
 
-`Para os próximos exercícios, crie um novo arquivo chamado phrases.txt e adicione algumas frases à sua escolha. Não precisa criar o arquivo pelo terminal.
+`Para os próximos exercícios, crie um novo arquivo chamado phrases.txt e adicione algumas frases à sua escolha. Não precisa criar o arquivo pelo terminal.`
 
+`#Busque pelas frases que não contenham a palavra fox .`
+
+grep -iv 'fox' phrases.txt
+
+`#Conte o número de palavras do arquivo phrases.txt .`
+
+wc -w phrases.txt
+
+`#Conte o número de linhas do arquivo phrases.txt .`
+
+wc -l phrases.txt
+
+`#Crie os arquivos empty.tbt e empty.pdf .`
+
+touch empty.tbt
+
+touch empty.pdf
+
+`#Liste todos os arquivos do diretório unix_tests .`
+
+ls
+
+`#Liste todos os arquivos que terminem com txt .`
+
+ls *.txt
+
+`#Liste todos os arquivos que terminem com tbt ou txt .`
+
+ls *.tbt ls *.txt
+
+`#Acesse o manual do comando ls .`
+
+man ls
 
 
 
