@@ -154,13 +154,33 @@ fortune > fortune.txt
 
 wc -c fortune.txt
 
-`Execute o comando sudo apt-get install sl em um terminal Linux , ou brew install sl em um terminal macOS . Após a instalação, execute o comando sl . Agora tente sl -F ;`
+`#Execute o comando sudo apt-get install sl em um terminal Linux , ou brew install sl em um terminal macOS . Após a instalação, execute o comando sl . Agora tente sl -F ;`
+
+sudo apt-get install sl
+
+sl
+
+sl -f
 
 `#No sistema Linux , execute o comando sudo apt-get install cowsay , ou brew install cowsay no macOS . Após a instalação, execute o comando cowsay e algo que você queira falar. Agora faça a vaquinha dizer a frase que está gravada no arquivo fortune.txt ;`
 
+sudo apt-get install cowsay
 
+cowsay
 
+cowsay < fortune.txt
 
+`#Descubra os fatores primos usando o comando factor e em seguida o número 42 ;`
+
+factor 42
+
+`#Veja como fica a sua sorte do dia ao contrário. Dica: utilize o comando rev .`
+
+fortune | rev
+
+`#Execute o comando telnet towel.blinkenlights.nl e espere alguns segundos.`
+
+telnet towel.blinkenlights.nl
 
 
 
