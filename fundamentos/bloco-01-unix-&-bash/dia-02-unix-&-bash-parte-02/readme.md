@@ -76,11 +76,10 @@
 
 4 - Execute o comando `sudo apt-get install sl` em um terminal **Linux** , ou `brew install sl` em um terminal **macOS** . Após a instalação, execute o comando `sl` . Agora tente `sl -F`;
 
-5 - No sistema Linux , execute o comando sudo apt-get install cowsay , ou brew install cowsay no macOS . Após a instalação, execute o comando cowsay e algo que você queira falar. Agora faça a vaquinha dizer a frase que está gravada no arquivo fortune.txt ;
+5 - No sistema **Linux** , execute o comando `sudo apt-get install cowsay` , ou `brew install cowsay` no **macOS** . Após a instalação, execute o comando `cowsay` e algo que você queira falar. Agora faça a vaquinha dizer a frase que está gravada no arquivo `fortune.txt` ;
 
-6 - Descubra os fatores primos usando o comando factor e em seguida o número 42 ;
+6 - Descubra os fatores primos usando o comando `factor` e em seguida o número 42 ;
 
-7 - Veja como fica a sua sorte do dia ao contrário. Dica: utilize o comando rev .
+7 - Veja como fica a sua sorte do dia ao contrário. Dica: utilize o comando `rev` .
 
-8 - Execute o comando telnet towel.blinkenlights.nl e espere alguns segundos. Lembre-se que você tem mais exercícios para fazer! 😅
-
+8 - Execute o comando `telnet towel.blinkenlights.nl` e espere alguns segundos. 
