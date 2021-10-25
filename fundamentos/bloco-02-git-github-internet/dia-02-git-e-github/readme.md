@@ -27,10 +27,10 @@ O que eu vou aprender na Trybe:
 >Agora um git commit -m "Mensagem que você gostaria" ;
 
 >Uma boa prática é sempre resumir o que o seu commit está alterando, por exemplo, git commit -m "Adiciona nova skill" ;
-
+>
 >Evite juntar muitas modificações em um único commit. Assim, caso haja algum erro no código, ficará mais fácil visualizar em qual alteração ele surgiu;
-
->E por último um git push -u origin trybe-skills-changes ;**
+>
+>   E por último um git push -u origin trybe-skills-changes ;**
 
 5 - Abra um Pull Request com uma descrição detalhada:
 
