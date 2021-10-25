@@ -31,5 +31,25 @@ São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento
  
  *3/1 - HTML & CSS - Estruturas de página*
 
+ *3/2 - HTML & CSS - Primeiros passos em CSS*
  
- 
+ *3/3 - HTML & CSS - Seletores e posicionamento*
+
+ *3/4 - HTML Semântico*
+
+ *3/5 - Projeto - Lessons Learned*
+
+  ### Bloco 04: Introdução à JavaScript e Lógica de Programação
+
+ *4/1 - Introdução - JavaScript*
+
+ *4/1 - JavaScript - Primeiros passos*
+
+ *4/2 - JavaScript - Array e loop For*
+
+ *4/3 - JavaScript - Lógica de Programação e Algoritmos*
+
+ *4/4 - JavaScript - Objetos e funções*
+
+ *4/5 - Projeto - Playground Functions*
+
