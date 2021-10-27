@@ -18,5 +18,5 @@
 
 `Adicione uma imagem que está no seu computador, local.`
 
-(<img src="cachorrinho.gif" width="300">)
+<img src="cachorrinho.gif" width="300">
 
