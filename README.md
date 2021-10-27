@@ -7,7 +7,7 @@ Neste repositório coloquei todas as atividades desenvolvidas por [mim](https://
 >A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. Com o modelo de Sucesso Compartilhado, quem estuda na Trybe tem a opção de pagar apenas quando já estiver trabalhando.
 São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais.
 
-## Desenvolvimento Web
+## Desenvolvimento Web :computer:
 
 ### Bloco 1: Unix & Bash
   :heavy_check_mark:*1/3 - Fundamentos do Desenvolvimento Web*
@@ -20,11 +20,11 @@ São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento
   
 ### Bloco 2: Git, GitHub e Internet
   
- *2/1 - Git & GitHub - O que é e para que serve*
+ :heavy_check_mark:*2/1 - Git & GitHub - O que é e para que serve*
  
- *2/2 - Git & GitHub - Entendendo os comandos*
+ :heavy_check_mark:*2/2 - Git & GitHub - Entendendo os comandos*
  
- *2/3 - Internet - Entendendo como ela funciona*
+ :heavy_check_mark:*2/3 - Internet - Entendendo como ela funciona*
 
 ### Bloco 3: Introdução à HTML e CSS
 
@@ -126,7 +126,7 @@ São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento
 
   *9/4 - Projeto - Carrinho de Compras*
 
-## Desenvolvimento Front-end
+## Desenvolvimento Front-end :computer:
 
 ### Bloco 10: Introdução à React
 
@@ -204,7 +204,7 @@ São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento
   
   *18/1 - Projeto - App de Receitas*
 
-## Desenvolvimento Back-end
+## Desenvolvimento Back-end :computer:
 
 ### Bloco 19: Introdução à SQL
 
@@ -346,3 +346,68 @@ São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento
   
   *31/1 - Projeto - App de Delivery*
 
+## Ciência da Computação :computer:
+
+### Bloco 32: Introdução à Python
+
+  *32/1 - Introdução - Ciência da Computação*
+
+  *32/1 - Aprendendo Python*
+
+  *32/2 - Entrada e Saída de Dados*
+
+  *32/3 - Testes*
+
+  *32/4 - Projeto - Job Insights*
+
+### Bloco 33: Programação Orientada a Objetos e Padrões de Projeto
+
+  *33/1 - Introdução à programação orientada a objetos*
+  
+  *33/2 - Herança, Composição e Interfaces*
+  
+  *33/3 - Padrões de projeto*
+
+  *33/4 - Projeto - Relatórios de Estoque*
+
+### Bloco 34: Redes e Raspagem de Dados
+
+  *34/1 - Arquitetura de redes*
+  
+  *34/2 - Redes de computadores, ferramentas e segurança*
+  
+  *34/3 - Raspagem de Dados*
+  
+  *34/4 - Projeto - Tech news*
+
+### Bloco 35: Algoritmos
+
+  *35/1 - Complexidade de Algoritmos*
+
+  *35/2 - Recursividade e Estratégias para solução de problemas*
+  
+  *35/3 - Algoritmos de ordenação e busca*
+  
+  *35/4 - Projeto - Algoritmos*
+
+### Bloco 36: Estrutura de Dados I: Arrays, Hashmaps e Sets
+  
+  *36/1 - Arquitetura de Computadores*
+
+  *36/2 - Arrays*
+
+  *36/3 - Hashmap e Dict*
+
+  *36/4 - Set*
+
+  *36/5 - Projeto - Restaurant Orders*
+
+### Bloco 37: Estrutura de Dados II: Listas, Filas e Pilhas
+
+  *37/1 - Nó e Listas Encadeadas*
+
+  *37/2 - Deque*
+  
+  *37/3 - Pilhas*
+
+  *37/4 - Projeto - TING - Trybe Is Not Google*
