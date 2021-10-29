@@ -7,3 +7,5 @@
 2 - Adicione uma imagem que venha de uma URL externa.
 
 3 - Adicione uma imagem que está no seu computador, local.
+
+
