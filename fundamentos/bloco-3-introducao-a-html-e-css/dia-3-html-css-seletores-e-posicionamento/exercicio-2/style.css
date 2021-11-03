@@ -1,0 +1,15 @@
+h1, div{
+    text-align: center;
+}
+
+li:hover{
+    background-color: cadetblue;
+}
+
+li:active{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+li {
+    list-style: none;
+}
