@@ -1,11 +1,11 @@
 #title {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    color: aliceblue;
+    color: aqua;
 }
 
 body {
-    background-image: url(camarão.jpg);
+    background-image: url(wallpaper.jpg);
     margin: 0%;
 }
 
@@ -14,17 +14,17 @@ body {
 }
 
 #nav {
-    color: aliceblue;
+    color: black;
 }
 
 #fatos-interessantes {
     text-align: center;
     font-family: monospace;
-    color: aliceblue;
+    color: navy;
 }
 
 article {
-    color: antiquewhite;
+    color: navy;
 }
 
 img {
@@ -32,5 +32,19 @@ img {
 }
 
 #informacoes {
-    color:antiquewhite;
+    color:navy;
+    text-align: center;
+}
+
+p {
+    color: blue;
+}
+
+#lista-informacoes {
+    color: aqua;
+}
+
+#foto-fatos {
+    width: 500px;
+    margin-right: 400px;
 }
