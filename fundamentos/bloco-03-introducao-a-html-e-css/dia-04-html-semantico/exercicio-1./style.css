@@ -1,0 +1,36 @@
+#title {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+}
+
+body {
+    background-image: url(camarão.jpg);
+    margin: 0%;
+}
+
+#imagem-1 {
+    width: 500px;
+}
+
+#nav {
+    color: aliceblue;
+}
+
+#fatos-interessantes {
+    text-align: center;
+    font-family: monospace;
+    color: aliceblue;
+}
+
+article {
+    color: antiquewhite;
+}
+
+img {
+    margin-left: 400px;
+}
+
+#informacoes {
+    color:antiquewhite;
+}
