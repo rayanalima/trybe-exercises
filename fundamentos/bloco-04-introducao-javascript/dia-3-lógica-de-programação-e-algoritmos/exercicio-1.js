@@ -32,7 +32,3 @@ else {
     console.log('erro')
 }
 
-//Agora inverta o lado do triângulo. Por exemplo:
-
-Soco a 80km/h: Conheça o Stomatopoda
-Soco a 80km/h: Conheça o Stomatopoda

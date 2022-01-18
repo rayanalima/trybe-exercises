@@ -71,10 +71,14 @@ for(let i = 0; i <numbers.length; i += 1) {
 
  // Utilizando for , crie um array que vá de 1 até 25 e imprima o resultado; 
 
+ result = [];
  for(let i = 1; i < 26; i += 1) {
-     console.log(i)
+     result += i;
+     console.log(result)
  }
 
 //Utilizando o array criado no exercício anterior imprima o resultado da divisão de cada um dos elementos por 2 .
 
-
+for(let i = 1; i < result.length; i += 1) {
+    result = i / 2;
+}
