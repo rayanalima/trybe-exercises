@@ -28,131 +28,131 @@ São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento
 
 ### Bloco 3: Introdução à HTML e CSS
 
- *3/1 - Introdução - HTML & CSS*
+ :heavy_check_mark:*3/1 - Introdução - HTML & CSS*
  
- *3/1 - HTML & CSS - Estruturas de página*
+ :heavy_check_mark:*3/1 - HTML & CSS - Estruturas de página*
 
- *3/2 - HTML & CSS - Primeiros passos em CSS*
+ :heavy_check_mark:*3/2 - HTML & CSS - Primeiros passos em CSS*
  
- *3/3 - HTML & CSS - Seletores e posicionamento*
+ :heavy_check_mark:*3/3 - HTML & CSS - Seletores e posicionamento*
 
- *3/4 - HTML Semântico*
+ :heavy_check_mark:*3/4 - HTML Semântico*
 
- *3/5 - Projeto - Lessons Learned*
+ :heavy_check_mark:*3/5 - Projeto - Lessons Learned*
 
 ### Bloco 4: Introdução à JavaScript e Lógica de Programação
 
- *4/1 - Introdução - JavaScript*
+ :heavy_check_mark:*4/1 - Introdução - JavaScript*
 
- *4/1 - JavaScript - Primeiros passos*
+ :heavy_check_mark:*4/1 - JavaScript - Primeiros passos*
 
- *4/2 - JavaScript - Array e loop For*
+ :heavy_check_mark:*4/2 - JavaScript - Array e loop For*
 
- *4/3 - JavaScript - Lógica de Programação e Algoritmos*
+ :heavy_check_mark:*4/3 - JavaScript - Lógica de Programação e Algoritmos*
 
- *4/4 - JavaScript - Objetos e funções*
+ :heavy_check_mark:*4/4 - JavaScript - Objetos e funções*
 
- *4/5 - Projeto - Playground Functions*
+ :heavy_check_mark:*4/5 - Projeto - Playground Functions*
 
 ### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 
-  *5/1 - JavaScript - DOM e seletores*
+  :heavy_check_mark:*5/1 - JavaScript - DOM e seletores*
 
-  *5/2 - JavaScript - Trabalhando com elementos*
+  :heavy_check_mark:*5/2 - JavaScript - Trabalhando com elementos*
 
-  *5/3 - JavaScript - Eventos*
+  :heavy_check_mark:*5/3 - JavaScript - Eventos*
 
-  *5/4 - JavaScript - Web Storage*
+  :heavy_check_mark:*5/4 - JavaScript - Web Storage*
 
-  *5/5 - Fundamentos - JavaScript - Projetos*
+  :heavy_check_mark:*5/5 - Fundamentos - JavaScript - Projetos*
 
-  *5/5 - Projeto - Arte com Pixels*
+  :heavy_check_mark:*5/5 - Projeto - Arte com Pixels*
 
-  *5/6 - Projeto - Lista de tarefas*
+  :heavy_check_mark:*5/6 - Projeto - Lista de tarefas*
 
-  *5/7 - (Bônus) Projeto - Meme Generator*
+  :heavy_check_mark:*5/7 - (Bônus) Projeto - Meme Generator*
 
-  *5/7 - (Bônus) Projeto - Adivinhe a Cor*
+  :heavy_check_mark:*5/7 - (Bônus) Projeto - Adivinhe a Cor*
 
-  *5/7 - (Bônus) Projeto - Carta Misteriosa*
+  :heavy_check_mark:*5/7 - (Bônus) Projeto - Carta Misteriosa*
 
 ### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 
-  *6/1 - HTML & CSS - Forms*
+  :heavy_check_mark:*6/1 - HTML & CSS - Forms*
 
-  *6/2 - Bibliotecas JavaScript e Frameworks CSS*
+  :heavy_check_mark:*6/2 - Bibliotecas JavaScript e Frameworks CSS*
 
-  *6/3 - Introdução - CSS Flexbox*
+  :heavy_check_mark:*6/3 - Introdução - CSS Flexbox*
 
-  *6/3 - CSS Flexbox - Parte 1*
+  :heavy_check_mark:*6/3 - CSS Flexbox - Parte 1*
 
-  *6/4 - CSS Flexbox - Parte 2*
+  :heavy_check_mark:*6/4 - CSS Flexbox - Parte 2*
 
-  *6/5 - CSS Responsivo - Mobile First*
+  :heavy_check_mark:*6/5 - CSS Responsivo - Mobile First*
 
-  *6/6 - Projeto - Trybewarts*
+  :heavy_check_mark:*6/6 - Projeto - Trybewarts*
 
 ### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 
-  *7/1 - JavaScript ES6 - let, const, arrow functions e template literals*
+  :heavy_check_mark:*7/1 - JavaScript ES6 - let, const, arrow functions e template literals*
 
-  *7/2 - JavaScript ES6 - Objects*
+  :heavy_check_mark:*7/2 - JavaScript ES6 - Objects*
 
-  *7/3 - Primeiros passos em Jest*
+  :heavy_check_mark:*7/3 - Primeiros passos em Jest*
 
-  *7/4 - Projeto - JavaScript Testes Unitários*
+  :heavy_check_mark:*7/4 - Projeto - JavaScript Testes Unitários*
 
 ### Bloco 8: Higher Order Functions do JavaScript ES6
 
-  *8/1 - JavaScript ES6 - Introdução a Higher Order Functions*
+  :heavy_check_mark:*8/1 - JavaScript ES6 - Introdução a Higher Order Functions*
 
-  *8/2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort*
+  :heavy_check_mark:*8/2 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort*
 
-  *8/3 - JavaScript ES6 - Higher Order Functions - map e filter*
+  :heavy_check_mark:*8/3 - JavaScript ES6 - Higher Order Functions - map e filter*
 
-  *8/4 - JavaScript ES6 - Higher Order Functions - reduce*
+  :heavy_check_mark:*8/4 - JavaScript ES6 - Higher Order Functions - reduce*
 
-  *8/5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais*
+  :heavy_check_mark:*8/5 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais*
 
-  *8/6 - Projeto - Zoo functions*
+  :heavy_check_mark:*8/6 - Projeto - Zoo functions*
 
 ### Bloco 9: JavaScript e Testes Assíncronos
 
-  *9/1 - JavaScript Assíncrono e Callbacks*
+  :heavy_check_mark:*9/1 - JavaScript Assíncrono e Callbacks*
 
-  *9/2 - JavaScript Assíncrono - Fetch API e async/await*
+  :heavy_check_mark:*9/2 - JavaScript Assíncrono - Fetch API e async/await*
 
-  *9/3 - Jest - Testes Assíncronos*
+  :heavy_check_mark:*9/3 - Jest - Testes Assíncronos*
 
-  *9/4 - Projeto - Carrinho de Compras*
+  :heavy_check_mark:*9/4 - Projeto - Carrinho de Compras*
 
 ## Desenvolvimento Front-end :computer:
 
 ### Bloco 10: Introdução à React
 
-  *10/1 - Introdução - Front-end*
+  :heavy_check_mark:*10/1 - Introdução - Front-end*
   
-  *10/1 - Introdução - React*
+  :heavy_check_mark:*10/1 - Introdução - React*
   
-  *10/1 - 'Hello, world!' no React!*
+  :heavy_check_mark:*10/1 - 'Hello, world!' no React!*
   
-  *10/2 - Componentes React*
+  :heavy_check_mark:*10/2 - Componentes React*
   
-  *10/3 - Projeto - Sistema Solar*
+  :heavy_check_mark:*10/3 - Projeto - Sistema Solar*
 
 ### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-  *11/1 - Componentes com estado e eventos*
+  :heavy_check_mark:*11/1 - Componentes com estado e eventos*
   
-  *11/2 - Formulários no React*
+  :heavy_check_mark:*11/2 - Formulários no React*
   
-  *11/3 - Projeto - Tryunfo*
+  :heavy_check_mark:*11/3 - Projeto - Tryunfo*
 
 ### Bloco 12: Ciclo de Vida de Componentes e React Router
 
-  *12/1 - Ciclo de vida de componentes*
+  :heavy_check_mark:*12/1 - Ciclo de vida de componentes*
   
-  *12/2 - React Router*
+  :heavy_check_mark:*12/2 - React Router*
   
   *12/3 - Projeto - TrybeTunes*
 
